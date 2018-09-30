@@ -5,7 +5,7 @@ An app that lets you change the color of the text and background, and the text w
 
 ### App Walk-though
 
-<img src="https://imgur.com/a/uNBj47G" width=200><br>
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/uNBj47G"><a href="//imgur.com/uNBj47G">Huwwo App</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
 ### Required User Stories
 - [X] 1. User sees custom text in a label - Hello from {name}!
